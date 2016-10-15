@@ -17,9 +17,9 @@ Berdasarkan masalah diatas, kami disini berusaha untuk merancang sebuah sistem y
 **1.2 Identifikasi Masalah**
 
 Dari latar belakang diatas maka dapat diidentifikasi menjadi beberapa masalah sebagai berikut :
-1.	Bagaimana mengakses lokasi restoran di Kota Bandung yang minim dan susah ditemukan.
-2.	Bagaimana menyediakan informasi lokasi kuliner di Kota Bandung berbasis mobile.
-3.	Bagaimana pengguna dapat mengetahui lokasi kuliner sesuai dengan selera pengguna masing-masing.
+1. Bagaimana mengakses lokasi restoran di Kota Bandung yang minim dan susah ditemukan.
+2. Bagaimana menyediakan informasi lokasi kuliner di Kota Bandung berbasis mobile.
+3. Bagaimana pengguna dapat mengetahui lokasi kuliner sesuai dengan selera pengguna masing-masing.
 
 
 
