@@ -46,7 +46,7 @@ Beberapa hal yang perlu dibatasi permasalahannya, diantaranya: <br>
 **1.5 Rencana dan Jadwal Kerja**
 
 <p align="center">
-  <img src="./img/RencanaDanJadwalKerja.PNG">
+  <img src="https://github.com/ProposalProyekIT2/SISTEM-INFORMASI-GEOGRAFIS-LOKASI-RESTORAN-DI-KOTA-BANDUNG-SUB-MODUL-ANDROID-BASE-APPLICATION-/blob/master/img/RencanaDanJadwalKerja.PNG">
 </p>
 
 
