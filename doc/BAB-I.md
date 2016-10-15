@@ -23,10 +23,23 @@ Dari latar belakang diatas maka dapat diidentifikasi menjadi beberapa masalah se
 
 
 **1.3 Tujuan**
+
 Berdasarkan latar belakang dan rumusan masalah diatas, maka tujuan yang ingin dicapai adalah: <br>
 1.	Menyajikan informasi data terkait lokasi restoran di Kota Bandung dengan aplikasi Sistem Informasi Geografis berbasis mobile. <br>
 2.	Mempermudah pencarian lokasi dan informasi restoran secara umum di Kota Bandung. <br>
 3.	Membantu menemukan lokasi restoran sesuai dengan selera pengguna. <br>
+
+
+**1.4 Ruang Lingkup**
+
+Beberapa hal yang perlu dibatasi permasalahannya, diantaranya: <br>
+1.	Daerah yang menjadi objek dalam Sistem Informasi ini adalah Kota Bandung. <br>
+2.	Sistem Informasi Geografis ini terfokus pada Sistem Informasi Berbasis Mobile <br>
+3.	Informasi yang disajikan antara lain: <br>
+	a.	Foto Restoran di Kota Bandung, <br>
+	b.	Alamat, <br>
+	c.	Profile masing-masing restoran (berupa video profile dan menu masakan), <br>
+	d.	Menampilkan testimoni dan rating dari pengguna lain. <br>
 
 
 
