@@ -12,3 +12,14 @@ Di saat seperti ini dimana perkembangan teknologi semakin pesat dan orang- orang
 Dengan adanya aplikasi ini pengguna dapat dengan mudah melakukan pencarian lokasi restoran menggunakan smartphone mereka masing-masing menggunakan fitur Google Maps yang telah disediakan. Selain itu, pengguna dapat melakukan rating serta testimoni pada tempat restoran yang telah mereka datangi.
 Sistem Informasi Geografis (SIG) ini diharapkan dapat menjadi salah satu layanan yang dapat membatu wisatawan serta pemerintah untuk mempromosikan Kota Bandung sebagai Kota Kuliner di Indonesia.
 Berdasarkan masalah diatas, kami disini berusaha untuk merancang sebuah sistem yang dapat menyajikan informasi tentang lokasi restoran yang ada di Kota Bandung yaitu **Sistem Informasi Geografis Lokasi Restoran di Kota Bandung (Sub Modul : Android Base Application)**.
+
+
+**1.2 Identifikasi Masalah**
+
+Dari latar belakang diatas maka dapat diidentifikasi menjadi beberapa masalah sebagai berikut :
+1.	Bagaimana mengakses lokasi restoran di Kota Bandung yang minim dan susah ditemukan.
+2.	Bagaimana menyediakan informasi lokasi kuliner di Kota Bandung berbasis mobile.
+3.	Bagaimana pengguna dapat mengetahui lokasi kuliner sesuai dengan selera pengguna masing-masing.
+
+
+
