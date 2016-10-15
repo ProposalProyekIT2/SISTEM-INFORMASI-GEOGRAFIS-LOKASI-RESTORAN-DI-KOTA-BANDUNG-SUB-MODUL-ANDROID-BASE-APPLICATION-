@@ -45,7 +45,9 @@ Beberapa hal yang perlu dibatasi permasalahannya, diantaranya: <br>
 
 **1.5 Rencana dan Jadwal Kerja**
 
-
+<p align="center">
+  <img src="./img/RencanaDanJadwalKerja.PNG">
+</p>
 
 
 
