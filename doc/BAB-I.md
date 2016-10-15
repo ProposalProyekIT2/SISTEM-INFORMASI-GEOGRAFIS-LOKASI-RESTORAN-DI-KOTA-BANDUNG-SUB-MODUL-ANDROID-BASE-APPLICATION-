@@ -16,10 +16,19 @@ Berdasarkan masalah diatas, kami disini berusaha untuk merancang sebuah sistem y
 
 **1.2 Identifikasi Masalah**
 
-Dari latar belakang diatas maka dapat diidentifikasi menjadi beberapa masalah sebagai berikut :
+Dari latar belakang diatas maka dapat diidentifikasi menjadi beberapa masalah sebagai berikut : <br>
 1. Bagaimana mengakses lokasi restoran di Kota Bandung yang minim dan susah ditemukan. <br>
 2. Bagaimana menyediakan informasi lokasi kuliner di Kota Bandung berbasis mobile. <br>
 3. Bagaimana pengguna dapat mengetahui lokasi kuliner sesuai dengan selera pengguna masing-masing. <br>
+
+
+**1.3 Tujuan**
+Berdasarkan latar belakang dan rumusan masalah diatas, maka tujuan yang ingin dicapai adalah: <br>
+1.	Menyajikan informasi data terkait lokasi restoran di Kota Bandung dengan aplikasi Sistem Informasi Geografis berbasis mobile. <br>
+2.	Mempermudah pencarian lokasi dan informasi restoran secara umum di Kota Bandung. <br>
+3.	Membantu menemukan lokasi restoran sesuai dengan selera pengguna. <br>
+
+
 
 
 
