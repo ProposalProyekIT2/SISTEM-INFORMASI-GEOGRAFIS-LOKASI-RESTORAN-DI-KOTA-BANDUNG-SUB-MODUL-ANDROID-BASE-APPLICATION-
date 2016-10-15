@@ -40,6 +40,14 @@ Beberapa hal yang perlu dibatasi permasalahannya, diantaranya: <br>
 	b.	Alamat, <br>
 	c.	Profile masing-masing restoran (berupa video profile dan menu masakan), <br>
 	d.	Menampilkan testimoni dan rating dari pengguna lain. <br>
+	e.  Aplikasi ini berbasis android. <br>
+
+
+**1.5 Rencana dan Jadwal Kerja**
+
+
+
+
 
 
 
