@@ -8,7 +8,7 @@
 
 **2.1.1 Sistem**
 
-Sistem (system) dapat didiefinisikan dengan pendekatan prosedur dan dengan pendekatan komponen. “Dengan pendekatan prosedur, sistem dapat didefinisikan sebagi kumpulan dari prosedur–prosedur yang mempunyai tujuan tertentu”. Contoh sistem yang didefinisikan dengan pendekatan ini adalah sistem akuntansi.[^[1]]
+Sistem (system) dapat didiefinisikan dengan pendekatan prosedur dan dengan pendekatan komponen. “Dengan pendekatan prosedur, sistem dapat didefinisikan sebagi kumpulan dari prosedur–prosedur yang mempunyai tujuan tertentu”. Contoh sistem yang didefinisikan dengan pendekatan ini adalah sistem akuntansi.[1]
 
 **2.1.2 Informasi**
 
