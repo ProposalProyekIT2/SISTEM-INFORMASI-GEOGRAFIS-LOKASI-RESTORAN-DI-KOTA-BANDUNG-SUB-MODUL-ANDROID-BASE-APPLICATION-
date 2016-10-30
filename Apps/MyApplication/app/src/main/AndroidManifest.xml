@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kusnadi.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:icon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LoginGmailActivity">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+
+        <activity android:name=".SettingActivity"
+            android:label="@string/action_settings">
+            <intent-filter>
+                <action android:name="com.example.kusnadi.myapplication.SettingActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".AboutActivity"
+            android:label="About"/>
+
+        <activity android:name=".RegisterActivity"/>
+
+        <activity android:name=".MainActivity"/>
+
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
