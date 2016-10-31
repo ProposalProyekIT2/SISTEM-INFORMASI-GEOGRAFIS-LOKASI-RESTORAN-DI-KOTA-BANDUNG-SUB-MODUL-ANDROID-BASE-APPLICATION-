@@ -27,11 +27,11 @@ Pre Requirement
 
 | Windows  | Mac  | Linux |
 |----------|------|-------|
-|  Microsoft® Windows® 7/8/10 (32- or 64-bit) |  Mac® OS X® 10.8.5 or higher, up to 10.11.4 (El Capitan) |   |
-|  2 GB RAM minimum, 8 GB RAM recommended | 2 GB RAM minimum, 8 GB RAM recommended  |   |
-|  2 GB of available disk space minimum, 
-4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image) | 2 GB of available disk space minimum,
-4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)  |   |
-| 1280 x 800 minimum screen resolution  |  1280 x 800 minimum screen resolution |   |
-|  For accelerated emulator: 64-bit operating system and Intel® processor with support for Intel® VT-x, Intel® EM64T (Intel® 64), and Execute Disable (XD) Bit functionality |   |   |
-|   |   |   |
+|  Microsoft® Windows® 7/8/10 (32- or 64-bit) |  Mac® OS X® 10.8.5 or higher, up to 10.11.4 (El Capitan) | GNOME or KDE desktop
+Tested on Ubuntu® 12.04, Precise Pangolin (64-bit distribution capable of running 32-bit applications)  |
+|  2 GB RAM minimum, 8 GB RAM recommended | 2 GB RAM minimum, 8 GB RAM recommended  | 64-bit distribution capable of running 32-bit applications  |
+|  2 GB of available disk space minimum, 4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image) | 2 GB of available disk space minimum, 4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)  | GNU C Library (glibc) 2.11 or later  |
+| 1280 x 800 minimum screen resolution  |  1280 x 800 minimum screen resolution | 2 GB RAM minimum, 8 GB RAM recommended  |
+|  For accelerated emulator: 64-bit operating system and Intel® processor with support for Intel® VT-x, Intel® EM64T (Intel® 64), and Execute Disable (XD) Bit functionality |   | 2 GB of available disk space minimum, 4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)  |
+|   |   | 1280 x 800 minimum screen resolution  |
+|   |   | For accelerated emulator: Intel® processor with support for Intel® VT-x, Intel® EM64T (Intel® 64), and Execute Disable (XD) Bit functionality, or AMD processor with support for AMD Virtualization™ (AMD-V™)  |
