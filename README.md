@@ -21,7 +21,7 @@ Biodata
 The Project File
 ----------------
 
-You can find the project file in folder **Apps/MyApplication** . I develop this apps using **Android Studio**, you should see the **System Requirement** before running this script.
+You can find the project file in folder **Apps/MyApplication** . I develop this apps using **Android Studio**, you should see the **System Requirement** before running this script. Before install Android Studio, you should install the latest version of JDK from **oracle.com**.
 
 Pre Requirement
 
