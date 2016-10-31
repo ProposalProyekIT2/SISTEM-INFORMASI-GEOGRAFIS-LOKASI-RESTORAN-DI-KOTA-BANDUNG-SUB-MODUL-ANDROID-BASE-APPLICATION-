@@ -22,3 +22,14 @@ The Project File
 ----------------
 
 You can find the project file in folder **Apps/MyApplication** . I develop this apps using **Android Studio**, you should see the **System Requirement** before running this script.
+
+Pre Requirement
+
+| Windows  | Mac  | Linux |
+|----------|------|-------|
+|  Microsoft® Windows® 7/8/10 (32- or 64-bit) |   |   |
+|  2 GB RAM minimum, 8 GB RAM recommended |   |   |
+|  2 GB of available disk space minimum, 
+4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image) |   |   |
+| 1280 x 800 minimum screen resolution  |   |   |
+|  For accelerated emulator: 64-bit operating system and Intel® processor with support for Intel® VT-x, Intel® EM64T (Intel® 64), and Execute Disable (XD) Bit functionality |   |   |
