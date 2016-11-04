@@ -32,6 +32,9 @@
 
         <activity android:name=".MainActivity"/>
 
+        <meta-data android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyBh7-uFrGRedfrhakb6KiTRn-BCY0C4aeI"/>
+
     </application>
 
     <uses-permission android:name="android.permission.INTERNET" />
