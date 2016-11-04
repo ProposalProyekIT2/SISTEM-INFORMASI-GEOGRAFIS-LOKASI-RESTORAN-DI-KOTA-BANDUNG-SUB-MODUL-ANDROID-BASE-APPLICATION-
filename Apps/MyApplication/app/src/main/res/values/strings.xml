@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">My Restaurant</string>
-    <string name="action_settings">Setting</string>
+    <string name="action_settings">Cari Restaurant</string>
     <string name="drawer_open">Open</string>
     <string name="drawer_close">Close</string>
 
