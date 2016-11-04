@@ -6,7 +6,7 @@
         android:icon="@mipmap/ic_home_black_18dp"/>
     <item android:id="@+id/settings"
         android:title="About"
-        android:icon="@mipmap/ic_settings_black_48dp"/>
+        android:icon="@mipmap/earth"/>
     <item android:id="@+id/trash"
         android:title="Petunjuk"
         android:icon="@mipmap/ic_remove_circle_black_18dp"/>
