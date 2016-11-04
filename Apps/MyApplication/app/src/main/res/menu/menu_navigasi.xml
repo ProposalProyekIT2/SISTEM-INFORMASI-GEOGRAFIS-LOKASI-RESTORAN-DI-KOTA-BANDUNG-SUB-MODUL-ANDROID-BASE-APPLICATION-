@@ -5,7 +5,7 @@
         android:title="Beranda"
         android:icon="@mipmap/ic_home_black_18dp"/>
     <item android:id="@+id/settings"
-        android:title="About"
+        android:title="Cari Restoran"
         android:icon="@mipmap/earth"/>
     <item android:id="@+id/trash"
         android:title="Petunjuk"

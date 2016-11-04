@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
                     dr.closeDrawers();
                     return true;
                 } else if (id == R.id.settings) {
-                    Intent intentPengaturan = new Intent(MainActivity.this, AboutActivity.class);
+                    Intent intentPengaturan = new Intent(MainActivity.this, MapsActivity.class);
                     startActivity(intentPengaturan);
                     dr.closeDrawers();
                     return true;
